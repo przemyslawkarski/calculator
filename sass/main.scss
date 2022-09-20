@@ -1,0 +1,8 @@
+@use './reset';
+@use "./colors" as c;
+
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: c.$body-background-color;
+}
